@@ -3,6 +3,10 @@ body {
     background: url(../image/Bground.jpeg) no-repeat center center/cover ;
     margin :0px;
     padding: 0px;
+    background-position: center centre; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-attachment: fixed;
     
   }
   
