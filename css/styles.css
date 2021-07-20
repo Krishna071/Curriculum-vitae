@@ -1,18 +1,18 @@
 body {
-  background-color:  #EAF9F5;
-  background: url(../image/Bground.jpeg) no-repeat center center/cover ;
-}
-
-hr{
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
-  width: 5%;
-}
-h1{
-  color: #900C3F ;
-}
-h3{
-  color: #FF5733 ;
-}
+    background-color:  #EAF9F5;
+    background: url(../image/Bground.jpeg) no-repeat center center/cover ;
+  }
+  
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+  h1{
+    color: #900C3F ;
+  }
+  h3{
+    color: 	#8B0000;
+  }
