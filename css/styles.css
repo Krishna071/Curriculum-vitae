@@ -1,6 +1,8 @@
 body {
-    background-color:  #f9f9ea;
-    background: url(../image/Bgd.jpeg) no-repeat center center/cover ;
+  
+    background: url(../image/Bground.jpeg) no-repeat center center/cover ;
+    margin :0px;
+    padding: 0px;
     
   }
   
